@@ -83,17 +83,6 @@ nav {
 }
 
 
-@media screen and (max-width:840px) {
-   .nav-link ul{
-         display: none; 
-    }
-    .arrow{
-        display: block;
-    }
-   
-
-}
-
  /* Menu icon */
 
 #menu-icon-shape {
